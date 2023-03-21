@@ -47,9 +47,13 @@
 
 1. Динамическая маскировка данных
 ![image](https://user-images.githubusercontent.com/24692953/226604308-f9a2a811-d2c3-4b67-ab35-9b22dce0312d.png)
+
 ![image](https://user-images.githubusercontent.com/24692953/226604410-74a1993c-d8c9-4a8f-beda-4ccb1f07df47.png)
+
 ![image](https://user-images.githubusercontent.com/24692953/226604531-6ef028bb-6222-43f6-85fc-f9cac3cbdd57.png)
+
 ![image](https://user-images.githubusercontent.com/24692953/226604724-d5eaef23-53f3-41e9-adee-8cdd51a483c8.png)
+
 ![image](https://user-images.githubusercontent.com/24692953/226604857-c2d94dc0-db74-43c8-b670-1d1efb5e9f12.png)
 
 Результат маскировки данных:
