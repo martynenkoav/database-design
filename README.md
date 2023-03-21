@@ -46,7 +46,7 @@
 2. Провести анонимизацию данных.
 
 
-1. Динамическая маскировка данных
+Динамическая маскировка данных
 
 ![image](https://user-images.githubusercontent.com/24692953/226604308-f9a2a811-d2c3-4b67-ab35-9b22dce0312d.png)
 
@@ -63,4 +63,10 @@
 ![image](https://user-images.githubusercontent.com/24692953/226605049-a1c86039-5d8b-4b5b-980d-d885ef1d1074.png)
 
 
+Создание materialized view:
+
+![image](https://user-images.githubusercontent.com/24692953/226607150-270befee-554b-4549-82e5-5b7f32e700e2.png)
+
+Анонимизация данных:
+![image](https://user-images.githubusercontent.com/24692953/226607321-579256ac-f463-405c-b056-17b11d52065a.png)
 
