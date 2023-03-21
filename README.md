@@ -68,5 +68,6 @@
 ![image](https://user-images.githubusercontent.com/24692953/226607150-270befee-554b-4549-82e5-5b7f32e700e2.png)
 
 Анонимизация данных:
+
 ![image](https://user-images.githubusercontent.com/24692953/226607321-579256ac-f463-405c-b056-17b11d52065a.png)
 
