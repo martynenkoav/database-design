@@ -45,7 +45,9 @@
 1. Замаскировать поля с конфиденциальными данными.
 2. Провести анонимизацию данных.
 
+
 1. Динамическая маскировка данных
+
 ![image](https://user-images.githubusercontent.com/24692953/226604308-f9a2a811-d2c3-4b67-ab35-9b22dce0312d.png)
 
 ![image](https://user-images.githubusercontent.com/24692953/226604410-74a1993c-d8c9-4a8f-beda-4ccb1f07df47.png)
@@ -57,6 +59,7 @@
 ![image](https://user-images.githubusercontent.com/24692953/226604857-c2d94dc0-db74-43c8-b670-1d1efb5e9f12.png)
 
 Результат маскировки данных:
+
 ![image](https://user-images.githubusercontent.com/24692953/226605049-a1c86039-5d8b-4b5b-980d-d885ef1d1074.png)
 
 
